@@ -7,7 +7,7 @@ xport is not in pip yet. To install on a freshly-launched xbow cluster,
 log in to the head node and then run:
 
 ```
-sudo pip install git+git://github.com/CharlieLaughton/xport.git#egg=xport
+sudo pip install git+git://git@github.com:ChrisSuess/XbowPortal.git
 ```
 
 Then activate the web interface:
